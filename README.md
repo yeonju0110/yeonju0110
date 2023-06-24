@@ -5,7 +5,7 @@
 
 <br />
 
-<b>🛸 Tech Stacks</b>
+<h3>🛸 Tech Stacks</h3>
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
@@ -28,7 +28,7 @@
 
 <br />
 
-<b>🔧 Tools</b>
+<h3>🔧 Tools</h3>
 
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=FFFFFF"/>
@@ -39,7 +39,7 @@
 
 <br />
 
-<b>🐯 Contact</b>
+<h3>🐯 Contact</h3>
 
 <div>
  <a href="mailto:yjj0287@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=FFFFFF"/></a>
