@@ -1,10 +1,9 @@
-# Hi, I'm Yeonju
+# Hi, I'm Yeonju.
 
 - 🌱 I’m currently learning React Native, Javascript and Computer Science.
-- ✔️ Done is better than perfect.
+- ✔️ Done is better than perfect. Fail Fast, Fail Forward.
 
 <br />
-
 <h3>🛸 Tech Stacks</h3>
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>
