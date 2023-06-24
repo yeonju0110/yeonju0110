@@ -1,7 +1,7 @@
 # Hi, I'm Yeonju.
 
 - 🌱 I’m currently learning React Native, Javascript and Computer Science.
-- ✔️ Done is better than perfect. Fail Fast, Fail Forward.
+- ✔️ Done is better than perfect. Fail early, fail often, but always fail forward.
 
 <br />
 <h3>🛸 Tech Stacks</h3>
@@ -38,7 +38,7 @@
 
 <br />
 
-<h3>🐯 Contact</h3>
+<h3>📇 Contact</h3>
 
 <div>
  <a href="mailto:yjj0287@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=FFFFFF"/></a>
