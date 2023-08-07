@@ -1,6 +1,6 @@
 # Hi, I'm Yeonju.
 
-- 🌱 I’m currently learning React Native, Javascript and Computer Science.
+- 🌱 I’m currently learning React Native, Javascript and Algorithms.
 - ✔️ Done is better than perfect. Fail early, fail often, but always fail forward.
 
 <br />
