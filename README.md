@@ -1,6 +1,6 @@
 # Hi, I'm Yeonju.
 
-- 🌱 I’m currently learning React Native, Javascript and Algorithms.
+- 🌱 I’m currently learning Typescript and Algorithms.
 - ✔️ Done is better than perfect. Fail early, fail often, but always fail forward.
 
 <br />
@@ -20,6 +20,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Zustand-00599C?style=flat-square&logo=Zustand&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=FFFFFF"/>
