@@ -6,9 +6,6 @@
 <br />
 <br />
 
-<br />
-<br />
-
 <div align='center'>
     ✨ Contact: 
  <a href="mailto:yjj0287@gmail.com"><img src="https://img.shields.io/badge/Gmail-D1CF74?style=flat&logo=Mail.Ru&logoColor=FFFFFF"/></a>
