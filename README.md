@@ -6,13 +6,6 @@
 <br />
 <br />
 
-### 🧸 Activities
-- ⌨️ CMC 15th Product Team Front-end Developer `now`
-- ✏️ JavaCafe Study Community Member `now`
-- 🎖️ CMC 14th Web Team Lead
-- ⌨️ CMC 13th Web Team Member
-- 🏢 Cloud Print Company Front-end Developer
-
 <br />
 <br />
 
