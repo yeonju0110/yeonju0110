@@ -1,7 +1,7 @@
 <br />
 <br />
 <div align='center'>
-    <img width="312" alt="Yeonju" src="https://github.com/yeonju0110/yeonju0110/assets/97719273/7214649d-5058-4020-b426-800601bf6342">
+    <img width="312" alt="이름" src="https://github.com/user-attachments/assets/5d24d4f9-4fb0-4c90-b249-dbf803aeadfe">
 </div>
 <br />
 <br />
@@ -11,8 +11,8 @@
 
 <div align='center'>
     ✨ Contact: 
- <a href="mailto:yjj0287@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFAE95?style=flat&logo=Mail.Ru&logoColor=FFFFFF"/></a>
+ <a href="mailto:yjj0287@gmail.com"><img src="https://img.shields.io/badge/Gmail-D1CF74?style=flat&logo=Mail.Ru&logoColor=FFFFFF"/></a>
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=0:D3D3D3,100:FFAE95&animation=twinkling&type=waving)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=0:9DBDE8,100:D1CF74&animation=twinkling&type=waving)
