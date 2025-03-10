@@ -1,15 +1,5 @@
-<br />
-<br />
-<div align='center'>
-    <img width="312" alt="이름" src="https://github.com/user-attachments/assets/5d24d4f9-4fb0-4c90-b249-dbf803aeadfe">
-</div>
-<br />
-<br />
+## Hi, I'm Yeonju <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="25" height="25" />
 
-<div align='center'>
-    ✨ Contact: 
- <a href="mailto:yjj0287@gmail.com"><img src="https://img.shields.io/badge/Gmail-D1CF74?style=flat&logo=Mail.Ru&logoColor=FFFFFF"/></a>
-</div>
+<a href="mailto:yjj0287@gmail.com"><img src="https://img.shields.io/badge/Gmail-494E50?style=flat&logo=Mail.Ru&logoColor=FFFFFF"/></a>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=0:9DBDE8,100:D1CF74&animation=twinkling&type=waving)
